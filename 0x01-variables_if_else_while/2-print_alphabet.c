@@ -3,7 +3,7 @@
 /**
  * main - everything in small letters
  *
- * Return always (Success)
+ * Return: Always (Success)
  */
 
 int main(void)
