@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
- *
  *main - Empty point
  *
- *Return: 0 (success)
+ *Return: 0 (Success)
  */
 
 int main(void)
