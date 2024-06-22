@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-/**main - Empty point
+/**main - Entry point
  *
- * Return :0 (Success)
+ * Return: 0 (Success)
  *
  */
 
